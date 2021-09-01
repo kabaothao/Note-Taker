@@ -1,51 +1,84 @@
+# Note-Taker
 
-<h1 align="center"> 🚀 Express JS Server Deployment To Heroku 🚀</h1>
+> Outline a brief description of your project.
+> Live demo [_here_](https://damp-sea-54234.herokuapp.com/). <!-- If you have the project hosted somewhere, include the link here. -->
+
+## Table of Contents
+
+- [General Info](#general-information)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+<!-- * [License](#license) -->
+
+## General Information
+
+- What is the purpose of your project?
+- To modify starter code to create an application called Note Taker that can be used to write and save notes.
+- This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+- The application’s front end has already been created. My role is to build the back end, connect the two, and then deploy the entire application to Heroku.
 
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-See further examples on Heroku's Devcenter Node Getting started [article](https://devcenter.heroku.com/articles/getting-started-with-nodejs).
+## Technologies Used
 
-## Running Locally
+- Visual Studio
+- Node.js
+- Express.js
+- Javascipt
+- HTML
+- CSS
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
+## Features
 
-```sh
- git clone https://github.com/perfettiful/Express-Heroku-Deploy.git 
-```
-```sh
- cd Express-Heroku-Deploy
-```
-```sh
- npm install && npm start
-```
+- Starter Code
 
-Your app should now be running on [localhost:3001](http://localhost:3001/).
 
-## Deploying to Heroku
+## Screenshots
 
-```sh
- heroku create
-```
-```sh
- git push heroku main
-```
-```sh
- heroku open
-```
-<div align="center">
+![Example screenshot](https://github.com/kabaothao/Note-Taker/blob/main/Assets/11-express-homework-demo-01.png)
 
-OR
+![Example screenshot](https://github.com/kabaothao/Note-Taker/blob/main/Assets/11-express-homework-demo-02.png)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-</div>
 
-## Documentation
+<!-- If you have screenshots you'd like to share, include them here. -->
 
-For more information about using Node.js on Heroku, see these Dev Center articles:
+## Setup
 
-- [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
-- [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
-- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-- [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+Project requirements:
+What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+
+- The app was deployed on Heroku. 
+- Dependencies:
+- Express
+- Path
+- Nodemon
+
+
+## Usage
+
+How does one go about using it?
+
+- To bw able to write and save notes on the Note Taker application.
+
+## Acknowledgements
+
+Give credit here.
+
+- This project was inspired by Trilogy Education.
+- Many thanks to Trilogy Education.
+
+## Contact
+
+Created by [@kabaothao](https://github.com/kabaothao) - feel free to contact me!
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
